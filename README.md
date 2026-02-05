@@ -8,7 +8,7 @@ Each piece is designed to hold what was felt but never said — a reminder that 
 ## Explore
 - 🌐 Website: https://leftunsaid.store
 - 💔 Heartbreak Collection: https://leftunsaid.store/collections/heartbreak
-- 📌 Pinterest: https://www.pinterest.com/leftunsaid
+- 📌 Pinterest: https://es.pinterest.com/left_unsaid/
 - ✍️ Medium: https://medium.com/@leftunsaid
 - 📖 Issuu: https://issuu.com/leftunsaid
 
