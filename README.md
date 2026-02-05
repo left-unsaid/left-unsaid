@@ -1,16 +1,18 @@
-## Hi there 👋
+# Left Unsaid
 
-<!--
-**left-unsaid/left-unsaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Left Unsaid** is an emotional jewelry brand built around words never spoken.  
+Quiet keepsakes for heartbreak, healing, and closure.
 
-Here are some ideas to get you started:
+Each piece is designed to hold what was felt but never said — a reminder that healing doesn’t require closure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Explore
+- 🌐 Website: https://leftunsaid.store
+- 💔 Heartbreak Collection: https://leftunsaid.store/collections/heartbreak
+- 📌 Pinterest: https://www.pinterest.com/leftunsaid
+- ✍️ Medium: https://medium.com/@leftunsaid
+- 📖 Issuu: https://issuu.com/leftunsaid
+
+## About
+Left Unsaid creates engraved jewelry for moments of grief, release, and reflection.  
+Not everything needs to be explained. Some things just need to be carried.
+
